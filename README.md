@@ -29,4 +29,4 @@ This Python script utilizes OpenCV to perform real-time face and eye detection t
 
 ## Note
 
-- The accuracy of the detection can be adjusted by modifying the scaling factor (`1.3`) and minimum neighbors (`5`) parameters in the `detectMultiScale` function.
+- The accuracy of the detection can be adjusted by modifying the scaling factor (`1.3`) and minimum neighbors (`5`) parameters in the `detectMultiScale` function in both the eyes and faces parameters. 
